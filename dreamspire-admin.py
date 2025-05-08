@@ -4,9 +4,9 @@ from git import Repo
 
 # Config
 local_repo_path = "/storage/emulated/0/DreamspireAdmin"
-github_username = "Fshhhh1"
+github_username = "YourGithubUsername"
 repo_name = "dreamspire-admin"
-token = "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"
+token = "token = "ghp_yourNewTokenHere""
 
 # Create new GitHub repo
 headers = {"Authorization": f"token {token}"}
